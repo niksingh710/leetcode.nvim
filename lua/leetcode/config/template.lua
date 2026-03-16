@@ -136,7 +136,7 @@ local M = {
     theme = {},
 
     ---@type boolean
-    image_support = false,
+    image_support = true,
 }
 
 return M
